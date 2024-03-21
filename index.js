@@ -37,4 +37,5 @@ form.onsubmit = (event) => {
     }
 
     console.log(user);
+    // form.submit();
 }
