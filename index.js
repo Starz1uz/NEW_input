@@ -37,5 +37,7 @@ form.onsubmit = (event) => {
     }
 
     console.log(user);
+alert('After 10 years you will be Senior')
+    
     // form.submit();
 }
